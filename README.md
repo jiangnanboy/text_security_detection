@@ -20,7 +20,7 @@ text_security_detection支持以下方法：
 ### the overall processing process of text security detection 文本内容安全检测流程
 
 <div align=center>
-<img src="img/1.png" width="613" height="393"/><br/>
+<img src="img/1.png" width="393" height="613"/><br/>
 </div>
 
 ### usage
